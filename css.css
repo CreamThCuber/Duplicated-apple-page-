@@ -98,10 +98,10 @@
   }
   
   #caixa1 img {
-      position: relative;
-      bottom: 30px;
-      width:100%;
-  }
+    position: relative;
+    bottom: 30px;
+    width:100%;
+ }
   
   .caixa2{
     display: inline-block;
@@ -139,9 +139,10 @@
   }
   
   #caixa2 img {
-      position: relative;
-      bottom: 30px;
-      width:100%;
+    position: relative;
+    bottom: 30px;
+    height:765px;
+    width:493px;
   }
   
   .caixa3{
@@ -181,9 +182,10 @@
   }
   
   #caixa3 img {
-      position: relative;
-      bottom: 30px;
-      width:100%;
+    position: relative;
+    bottom: 30px;
+    height:768px;
+    width:403px;
   }
   
   .caixa4 {
@@ -224,8 +226,10 @@
   }
   
   .caixa4 img{
-    width:100%;
-    height:85%;
+    position: relative;
+    bottom: 30px;
+    height:768px;
+    width:403px;
   }
   
   .caixa5 {
