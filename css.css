@@ -141,8 +141,7 @@
   #caixa2 img {
     position: relative;
     bottom: 30px;
-    height:765px;
-    width:493px;
+    width:100%;
   }
   
   .caixa3{
@@ -184,8 +183,7 @@
   #caixa3 img {
     position: relative;
     bottom: 30px;
-    height:768px;
-    width:403px;
+    width:100%;
   }
   
   .caixa4 {
@@ -228,8 +226,7 @@
   .caixa4 img{
     position: relative;
     bottom: 30px;
-    height:768px;
-    width:403px;
+    width:100%;
   }
   
   .caixa5 {
