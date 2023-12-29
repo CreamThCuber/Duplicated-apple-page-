@@ -54,7 +54,7 @@
   .header2 a:hover{
      text-decoration: underline;
   }
-  #main-box{
+  #caixa{
       display: inline-block;
       background: rgba(0,0,0,0.02);
       width: 100%;
@@ -62,7 +62,7 @@
       cursor: pointer;
   }
   
-  #main-box h1{
+  #caixa1 h1{
       font-size: 75px;
       letter-spacing: -.06em;
       position: relative;
@@ -72,7 +72,7 @@
     cursor: pointer;
   }
   
-  #main-box p{
+  #caixa1 p{
       font-size: 34px;
       letter-spacing: .01em;
       font-family:"Arial";
@@ -82,7 +82,7 @@
     cursor: pointer;
   }
   
-  #main-box a{
+  #caixa1 a{
     font-size:20px;
     color:#4e94db;
     position: relative;
@@ -93,18 +93,18 @@
     cursor: pointer;
   }
   
-  #main-box a:hover{
+  #caixa1 a:hover{
      text-decoration: underline;
   }
   
-  #main-box img {
+  #caixa1 img {
       position: relative;
       bottom: 30px;
       width:85%;
   
   }
   
-  .mainbox2{
+  .caixa2{
     display: inline-block;
     background-color :#35283c;
     font-family: "Arial";
@@ -112,13 +112,13 @@
     text-align: center;
   }
   
-  .mainbox2 h1{
+  .caixa2 h1{
     color: #ffffff;
     font-size: 75px;
     letter-spacing: -.06em;
   }
   
-  .mainbox2 p{
+  .caixa2 p{
      position: relative;
      bottom: 38px;
      font-size: 34px;
@@ -126,7 +126,7 @@
      color:#c999bd;
   }
   
-  .mainbox2 a{
+  .caixa2 a{
     font-size: 20px;
     color:#4e94db;
     position: relative;
@@ -135,18 +135,18 @@
     font-family:"Arial";
     display:block;
   }
-  .mainbox2 a:hover{
+  .caixa2 a:hover{
      text-decoration: underline;
   }
   
-  #mainbox2 img {
+  #caixa2 img {
       position: relative;
       bottom: 30px;
       width:85%;
       margin: 100%;
   }
   
-  .mainbox3{
+  .caixa3{
     display: inline-block;
     background-color :#ffffff;
     font-family: "Arial";
@@ -154,13 +154,13 @@
     text-align: center;
   }
   
-  .mainbox3 h1{
+  .caixa3 h1{
     color: black;
     font-size: 75px;
     letter-spacing: -.06em;
   }
   
-  .mainbox3 p{
+  .caixa3 p{
      position: relative;
      bottom: 38px;
      font-size: 34px;
@@ -168,7 +168,7 @@
      color: rgba(0,0,0,0.8);
   }
   
-  .mainbox3 a{
+  .caixa3 a{
     font-size: 20px;
     color:#4e94db;
     position: relative;
@@ -178,18 +178,18 @@
     display:block;
   }
   
-  .mainbox3 a:hover{
+  .caixa3 a:hover{
      text-decoration: underline;
   }
   
-  #mainbox3 img {
+  #caixa3 img {
       position: relative;
       bottom: 30px;
       width:85%;
       margin: 100%;
   }
   
-  .mainbox4 {
+  .caixa4 {
     display: inline-block;
     background-color :#f5f5f7;
     font-family: "Arial";
@@ -197,14 +197,14 @@
     text-align: center;
   }
   
-  .mainbox4 h1{
+  .caixa4 h1{
     color: black;
     font-size: 75px;
     letter-spacing: -.06em;
   
   }
   
-  .mainbox4 p{
+  .caixa4 p{
      position: relative;
      bottom: 38px;
      font-size: 30px;
@@ -212,7 +212,7 @@
      color:#d90238;
   }
   
-  .mainbox4 a{
+  .caixa4 a{
     font-size: 20px;
     color:#4e94db;
     position: relative;
@@ -222,16 +222,16 @@
     display:block;
   }
   
-  .mainbox4 a:hover{
+  .caixa4 a:hover{
      text-decoration: underline;
   }
   
-  .mainbox4 img{
+  .caixa4 img{
     width:100%;
     height:100%;
   }
   
-  .mainbox5 {
+  .caixa5 {
     display: inline-block;
     background-color :#ffffff;
     font-family: "Arial";
@@ -239,13 +239,13 @@
     text-align: center;
   }
   
-  .mainbox5 h1{
+  .caixa5 h1{
     color: black;
     font-size: 75px;
     letter-spacing: -.06em;
   }
   
-  .mainbox5 p{
+  .caixa5 p{
      position: relative;
      bottom: 38px;
      font-size: 34px;
@@ -253,7 +253,7 @@
      color: rgba(0,0,0,0.8);
   }
   
-  .mainbox5 a{
+  .caixa5 a{
     font-size: 20px;
     color:#4e94db;
     position: relative;
@@ -263,16 +263,16 @@
     display : block;
   }
   
-  .mainbox5 a:hover{
+  .caixa5 a:hover{
      text-decoration: underline;
   }
   
-  .mainbox5 img{
+  .caixa5 img{
     width:90%;
     height:90%;
   }
   
-  .mainbox6{
+  .caixa6{
     display: inline-block;
     background-color :#de2127;
     font-family: "Arial";
@@ -280,18 +280,18 @@
     width: 75%;
   }
   
-  .mainbox6 img{
+  .caixa6 img{
     width:70%;
     height:50%;
   }
   
-  .mainbox6 h1{
+  .caixa6 h1{
     color: black;
     font-size: 75px;
     letter-spacing: -.06em;
   }
   
-  .mainbox6 p{
+  .caixa6 p{
      position: relative;
      bottom: 38px;
      font-size: 34px;
@@ -299,7 +299,7 @@
      color: rgba(0,0,0,0.8);
   }
   
-  .mainbox6 a{
+  .caixa6 a{
     font-size: 20px;
     color:#4e94db;
     position: relative;
@@ -309,7 +309,7 @@
     display : block;
   }
   
-  .mainbox6 a:hover{
+  .caixa6 a:hover{
      text-decoration: underline;
   }
   .footer{
