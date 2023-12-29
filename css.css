@@ -54,7 +54,7 @@
   .header2 a:hover{
      text-decoration: underline;
   }
-  #caixa{
+  #caixa1{
       display: inline-block;
       background: rgba(0,0,0,0.02);
       width: 100%;
@@ -353,4 +353,3 @@
     font-family:"Arial";
     font-weight:normal;
   }
-  
